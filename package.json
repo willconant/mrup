@@ -1,0 +1,22 @@
+{
+  "name": "mrup",
+  "version": "0.0.1",
+  "description": "Some other markup",
+  "main": "mrup.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willconant/mrup.git"
+  },
+  "author": "Will Conant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willconant/mrup/issues"
+  },
+  "homepage": "https://github.com/willconant/mrup#readme",
+  "devDependencies": {
+    "jest": "^21.0.2"
+  }
+}
